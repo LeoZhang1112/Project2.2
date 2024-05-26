@@ -2529,10 +2529,12 @@ c422 44b5 48 8482 8526 414c 511 c148
     <comp lib="0" loc="(440,1250)" name="Bit Extender">
       <a name="in_width" val="3"/>
       <a name="out_width" val="5"/>
+      <a name="type" val="zero"/>
     </comp>
     <comp lib="0" loc="(460,760)" name="Bit Extender">
       <a name="in_width" val="3"/>
       <a name="out_width" val="5"/>
+      <a name="type" val="zero"/>
     </comp>
     <comp lib="0" loc="(470,1230)" name="Constant">
       <a name="value" val="0x8"/>
@@ -2541,6 +2543,7 @@ c422 44b5 48 8482 8526 414c 511 c148
     <comp lib="0" loc="(470,340)" name="Bit Extender">
       <a name="in_width" val="3"/>
       <a name="out_width" val="5"/>
+      <a name="type" val="zero"/>
     </comp>
     <comp lib="0" loc="(490,740)" name="Constant">
       <a name="value" val="0x8"/>
